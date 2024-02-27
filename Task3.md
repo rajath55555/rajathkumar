@@ -14,11 +14,12 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **leafpad sum1ton.c&**
 
-![WhatsApp Image 2024-02-27 at 10 58 21 AM (1)](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/21229fef-81a7-4fd6-af08-85449990a4b8)
+
 
 **Step 3: After writing the C code save the editor by Ctrl+s**
 
-![WhatsApp Image 2024-02-27 at 10 58 21 AM (2)](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/a9003904-6d39-479c-a587-dfe039a9d9b5)
+![task3 1](https://github.com/rajath55555/rajathkumar/assets/119932039/59046b31-35d6-4afe-9a91-c101beea5967)
+
 
 
 **Step 4: Check for the errors by using the following command(compilation step)**
