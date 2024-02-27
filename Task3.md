@@ -61,7 +61,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
 
-![task3 4](https://github.com/rajath55555/rajathkumar/assets/119932039/502fd436-8796-4c3e-809d-c58aacd8030c)
+
+![task3 4](https://github.com/rajath55555/rajathkumar/assets/119932039/aff12231-df66-44ce-b53a-2a5df2f605bd)
 
 
 **Step 4:**
