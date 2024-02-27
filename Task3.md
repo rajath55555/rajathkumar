@@ -56,7 +56,6 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **ls -ltr sum1ton.c**
 
-![task3 6](https://github.com/rajath55555/rajathkumar/assets/119932039/c305f575-8dfa-42f8-af37-f51b00db55c5)
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
@@ -68,6 +67,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 4:**
 
 **riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
+
+![task3 6](https://github.com/rajath55555/rajathkumar/assets/119932039/c305f575-8dfa-42f8-af37-f51b00db55c5)
 
 
 ![task3 5](https://github.com/rajath55555/rajathkumar/assets/119932039/4eb0809e-3f07-4aec-98db-c95dd6d735c6)
