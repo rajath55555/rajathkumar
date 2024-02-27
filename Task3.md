@@ -43,8 +43,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 1: View the C Code in the editor window using the following command**
 
 **cat sum1ton.c**
-![WhatsApp Image 2024-02-27 at 11 51 41 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/8cfda518-af70-4453-8c98-78517e8dd6d9)
 
+![task3 3](https://github.com/rajath55555/rajathkumar/assets/119932039/a0c4836d-9aeb-4d62-bd2b-bfb27da66989)
 
 **Step 2: Compile the code in riscv using the following command**
 
