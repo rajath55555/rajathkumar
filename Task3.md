@@ -30,11 +30,12 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **./a.out**
 
-![WhatsApp Image 2024-02-27 at 10 58 21 AM (3)](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/a22279f0-6b21-436f-8793-0d69fdaf8e54)
+![task3 2](https://github.com/rajath55555/rajathkumar/assets/119932039/4d5e8199-d14b-4229-8e6f-e9a62bc16bae)
+
 
 **The results will be displayed as** 
 
-**Sum of numbers from 1 to 50 is 1275**
+**Sum of numbers from 1 to 600 is 180300**
 
 
 ********************************************************RISCV Compilation and Execution*****************************************************
