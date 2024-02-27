@@ -68,13 +68,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
 
-![WhatsApp Image 2024-02-27 at 11 56 56 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/8f4a8e7f-7a17-47fd-ae80-d8cfcef6f633)
 
-
-![WhatsApp Image 2024-02-27 at 11 56 55 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/ad3d5a03-49fb-4419-bf21-374e9a35cd42)
-
-
-![WhatsApp Image 2024-02-27 at 11 56 55 AM (1)](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/10a99f1d-b5d8-498e-88bd-66ef06cbfb49)
+![task3 5](https://github.com/rajath55555/rajathkumar/assets/119932039/4eb0809e-3f07-4aec-98db-c95dd6d735c6)
 
 
 
