@@ -55,8 +55,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **use the command**
 
 **ls -ltr sum1ton.c**
-![WhatsApp Image 2024-02-27 at 11 57 31 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/94dcbb78-13c0-4509-97cf-a4290e0f8346)
 
+![task3 6](https://github.com/rajath55555/rajathkumar/assets/119932039/c305f575-8dfa-42f8-af37-f51b00db55c5)
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
