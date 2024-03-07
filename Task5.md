@@ -13,7 +13,7 @@
 - **To clone the repository and download the netlist files for simulation, enter the following commands in your terminal.**
 
  ```
- $ git clone https://github.com/ajeethdani/ajeetkumarkdani
+ $ git clone https://github.com/rajath55555/rajathkumar.git
  $ cd Documents
  $ cd hello
 ```
