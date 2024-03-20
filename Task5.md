@@ -1,45 +1,33 @@
-# FUNCTIONAL SIMULATION
-**For Ubuntu**
+**Final Task to Carry out the GLS - GateLevelSimulation**
 
- Open your terminal and type the following to install iverilog and GTKWave
- ```
- $   sudo apt get update
- $   sudo apt get install iverilog gtkwave
- ```
-
-![11](https://github.com/rajath55555/rajathkumar/assets/119932039/242b160e-6090-4717-9309-efc32323ac87)
-
-
-- **To clone the repository and download the netlist files for simulation, enter the following commands in your terminal.**
-
- ```
- $ git clone https://github.com/rajath55555/rajathkumar.git
- $ cd Documents
- $ cd hello
-```
-
-![22](https://github.com/rajath55555/rajathkumar/assets/119932039/b29c533c-9a6d-4292-984d-f678acd3fe63)
+**THEORY ABOUT GLS:**
+Gate-level simulation in VLSI involves meticulously analyzing the behavior of a digital circuit by focusing on the interactions between individual logic gates, flip-flops, and other fundamental components. It's like zooming in to the finest level of detail, examining how signals propagate through each gate to verify the circuit's timing, power usage, and overall functionality. This process ensures that the design operates correctly, detects any errors or issues early on, and enables optimization for performance and compatibility with specific hardware platforms before actual fabrication.
 
 
 
-- **To simulate and run the Verilog code, enter the following commands in your terminal.**
+**Synthesis directory check is mandatory.**
 
-```
-$ iverilog -o hello hello.v hello_tb.v
-$ ./hello
-```
+it should contain
+  -  Gatelevel netlist
+  -  standard cell library
+  -  Yosys Synthesis Script
 
-![33](https://github.com/rajath55555/rajathkumar/assets/119932039/392a5413-a6a6-4eef-8e17-b7f9cea77933)
-
-
-- **To see the output waveform in gtkwave, enter the following commands in your terminal.**
-
-`$ gtkwave hello.vcd`
+Below figure showing all these listed files
+![01](https://github.com/rajath55555/rajathkumar/assets/119932039/bc7da44c-a675-4ce2-81d8-cfec9ccc6536)
 
 
+**Operations
+ADD Operation**
+![02](https://github.com/rajath55555/rajathkumar/assets/119932039/1e1ff78b-245b-46f0-b454-f9580ad2b26c)
 
-  Full 5-stage instruction pipeline and pc-increment description Waveform
-  
+**SUB Operation**
+![03](https://github.com/rajath55555/rajathkumar/assets/119932039/9a0da3c1-75e7-44bd-a666-1694ee40dbfc)
 
-![44](https://github.com/rajath55555/rajathkumar/assets/119932039/b775e1fb-234b-41c0-83bd-b5ffbb768601)
-![55](https://github.com/rajath55555/rajathkumar/assets/119932039/fb1d6a2f-424d-45fd-8704-d02646afd04d)
+**Logical AND Operation**
+![04](https://github.com/rajath55555/rajathkumar/assets/119932039/4a7f8b40-bb66-4505-9512-0122785185cd)
+
+**Logical OR Operation**
+![05](https://github.com/rajath55555/rajathkumar/assets/119932039/c3da97f9-05c2-4a3e-818f-d64ba61e92a0)
+
+**Logical XOR Operation**
+![06](https://github.com/rajath55555/rajathkumar/assets/119932039/5ff0f3a5-d9b2-49d9-a34d-0843bca4f716)
